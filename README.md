@@ -31,9 +31,129 @@ Insert the images in their appropriate places.
 Publish the website in the LocalHost.
 
 ## PROGRAM:
+```.html
+<html>
+<head>
+    <meta name="viewport" content="width=device=width, initial-scale=1.0">
+    <style>
+
+        .bookpage{
+            width: 400px;
+            height: 600px;
+            color: gainsboro;
+            margin-left: auto;
+            margin-right: auto;
+            padding: 20px;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            background-image: url("C:\\Users\\admin\\Desktop\\web.jpg");
+            background-size: cover;
+        }
+
+        .insight{
+            color: rgb(247, 162, 5);
+        }
+
+        .hrstyle{
+            width: 100px;
+        }
+
+        .author{
+            display: inline;
+            position: relative;
+            color: rgb(223, 226, 220);
+            top: 230px;
+
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            font-size: small;
+        }
+
+        .booktitle{
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            font-size: larger;
+            text-align: center;
+            position: relative;
+            top: 30px;
+        }
+
+        .id{
+            width: 400px;
+            position: relative;
+            top: 100px;
+        }
+
+        .pub{
+            font-size: medium;
+            position: relative;
+            top: 230px;
+            left: 315px;
+        }
+
+        .ed{
+            color:  rgb(223, 226, 220);
+            font-size: medium;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            position: relative;
+            top: 150px;
+
+        }
+
+        .subtitle{
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            font-size: large;
+            position: relative;
+            top: 40px;
+        }
+
+        .mypic{
+            position: relative;
+            top: 230px;
+            left: 260px;
+            width: 100px;
+            height: 100px;
+            background-size: cover;
+
+        }
+    </style>
+    <title>BOOK COVER</title>
+</head>
+<body>
+    <div class="bookpage">
+        <div class="insight"> INSIGHT</div>
+        <div class="hrstyle">
+            <hr style="color: white">
+        </div>
+        <div class="booktitle">
+         <h1>"DESTINY OF SOULS
+                </h1>
+        </div>
+        <div class="subtitle">
+            <center>
+                New Case Studies of Life Between Lives 
+            </center>
+        </div>
+      
+        <div class="id">
+            <hr style="color: wheat">
+        </div>
+        <div class="author">
+            <p><b> SAMEER SHARIFF M (212224220085)</b></p>
+        </div>
+        <div class="pub">
+            
+        </div>
+        <div class="ed">
+            <b>LIMITED EDITION</b>
+        </div>
+    </div>
+</body>
+
+</html>
+```
 
 
 ## OUTPUT:
+
+![Screenshot 2025-05-13 145240](https://github.com/user-attachments/assets/919daa71-a413-4cf5-a145-4cd71e74c491)
 
 
 ## RESULT:
