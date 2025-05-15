@@ -132,7 +132,7 @@ Publish the website in the LocalHost.
             </center>
         </div>
         <div class="mypic">
-            <img src="r.png" width="125" height="140" alt="">
+            <img src="c:\SAM.PNG.jpg" width="125" height="140" alt="">
         </div>
       
         <div class="id">
@@ -156,7 +156,8 @@ Publish the website in the LocalHost.
 
 ## OUTPUT:
 
-![Screenshot 2025-05-13 145240](https://github.com/user-attachments/assets/919daa71-a413-4cf5-a145-4cd71e74c491)
+![Screenshot 2025-05-15 210946](https://github.com/user-attachments/assets/0b36390b-2c15-42dd-8fb0-be6de3db1d1c)
+
 
 
 ## RESULT:
