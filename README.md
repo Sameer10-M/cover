@@ -31,7 +31,7 @@ Insert the images in their appropriate places.
 Publish the website in the LocalHost.
 
 ## PROGRAM:
-```.html
+```
 <html>
 <head>
     <meta name="viewport" content="width=device=width, initial-scale=1.0">
@@ -130,6 +130,9 @@ Publish the website in the LocalHost.
             <center>
                 New Case Studies of Life Between Lives 
             </center>
+        </div>
+        <div class="mypic">
+            <img src="r.png" width="125" height="140" alt="">
         </div>
       
         <div class="id">
